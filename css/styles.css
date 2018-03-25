@@ -38,7 +38,7 @@ h2 {
 h3 {
   text-transform: uppercase;
 }
-section {
+#article-list {
   justify-content: center;
   width: 100%;
   display: flex;
